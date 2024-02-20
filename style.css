@@ -269,4 +269,5 @@ footer {
     text-align: center;
     padding: 10 px;
     z-index: 999; /* Ensure footer is on top of other content */
+    white-space: nowrap; /* Prevent text from wrapping */
 }
