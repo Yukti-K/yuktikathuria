@@ -9,14 +9,14 @@ div.bigBox{
 }
 
 h1{
-    color: #000000;
+    color: #881c1c;
     font-size: 60px !important;
     text-align: center;
     margin-top: 0px;
     margin-bottom: 2px;
 }
 h2{
-    color: #556B2F;
+    color: #881c1c;
     font-size: 28px !important;
     text-align: left;
     padding-top: 10px;
@@ -211,7 +211,7 @@ div.title {
     line-height: 105%;
     font-size: 55px;
     font-weight: bold;
-    color: ##881c1c;
+    color: #881c1c;
     margin-top: 12.0pt;
     margin-right: .3in;
     margin-left: .3in;
