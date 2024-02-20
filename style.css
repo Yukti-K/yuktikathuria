@@ -144,7 +144,10 @@ div#image{
     width: 25%;
     min-width: 150px;
     float: left;
-    margin-right:50px;
+    margin-top: 12.0pt;
+    margin-right: .3in;
+    margin-left: .3in;
+    margin-bottom: .0001pt;
     overflow:hidden;
 }
 div.content p{
