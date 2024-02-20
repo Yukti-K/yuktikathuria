@@ -4,6 +4,7 @@ body{
     font-family: "Verdana";
     overflow-x: hidden; /* Prevent horizontal scrolling */
     overflow-y: auto; /* Enable vertical scrolling */
+    margin-bottom: 60px; /* Adjust this value to match the height of your footer */
 }
 }
 div.bigBox{
@@ -261,9 +262,8 @@ li.narrow{
 
 footer {
     position: fixed;
-    left: 0;
     bottom: 0;
-    width: 50%;
+    width: 100%;
     background-color: #fff;
     color: #000;
     text-align: center;
