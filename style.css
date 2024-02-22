@@ -236,12 +236,13 @@ div.affiliation{
 }
 
 hr{
-    width: 100%;
-    margin: auto;
+    width: 85%;
+    margin:0.05in;
     /*padding-left:0px;*/
     /*box-align:left;*/
     background-color:#881c1c;
 }
+​
 ​
 ul.res{
     list-style-type: circle;
