@@ -264,15 +264,6 @@ li.narrow{
     font-size: 16px !important;
 }
 
-/* Awards section spacing adjustment */
-h2 {
-    margin-top: 20px; /* Add margin-top to create space between sections */
-}
-
-ul.TA li.wide {
-    margin-bottom: 20px; /* Adjust margin-bottom to match Activities section */
-}
-
 
 footer {
     position: fixed;
@@ -285,3 +276,20 @@ footer {
     z-index: 999; /* Ensure footer is on top of other content */
     white-space: nowrap; /* Prevent text from wrapping */
 }
+
+/* Existing CSS rules */
+
+/* Awards section spacing adjustment */
+h2 {
+    margin-top: 20px; /* Add margin-top to create space between sections */
+}
+
+ul.TA li.wide {
+    margin-bottom: 20px; /* Adjust margin-bottom to match Activities section */
+}
+
+/* Awards section spacing adjustment */
+ul.TA {
+    margin-left: 30px; /* Adjust margin-left to match Activities section */
+}
+
