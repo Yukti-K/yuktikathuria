@@ -264,6 +264,16 @@ li.narrow{
     font-size: 16px !important;
 }
 
+/* Awards section spacing adjustment */
+h2 {
+    margin-top: 20px; /* Add margin-top to create space between sections */
+}
+
+ul.TA li.wide {
+    margin-bottom: 20px; /* Adjust margin-bottom to match Activities section */
+}
+
+
 footer {
     position: fixed;
     bottom: 0;
