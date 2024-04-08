@@ -147,15 +147,12 @@ div#digiWork {
     overflow: hidden;
 }
 
-div#image {
+div#image{
     width: 25%;
     min-width: 150px;
     float: left;
-    margin-top: 12.0pt;
-    margin-right: .3in;
-    margin-left: .3in;
-    margin-bottom: .0001pt;
-    overflow: hidden;
+    margin-right:50px;
+    overflow:hidden;
 }
 
 div.content p {
